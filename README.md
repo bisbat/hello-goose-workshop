@@ -106,9 +106,8 @@ For example, ["Book 1", "Book 2", "Book 3"].
 
 3.)  Sort books by publication year: Write a function that sorts the library array by the publicationYear property from old to new. No return, console.log(bookArray) to see the result. 
 
-4.)  Calculate average score: Write a function that calculates the average critic score of each book and add the average score as a new attribute named “avgScore” to the book object. No return, console.log(bookArray) to see the result. 
+4.)  Calculate average score: Write a function that calculates the total critic score of each book and add the score as a new attribute named “totScore” to the book object. No return, console.log(bookArray) to see the result. 
 
-5.)  Sort the books by avgScore attribute from the 4.) question from the highest avgScore to the lowest. No return, console.log(bookArray) to see the result. 
+5.)  Sort the books by totScore attribute from the 4.) from the highest to the lowest. No return, console.log(bookArray) to see the result. 
 
-6.)  The store wants to start a campaign called “Critic’s Choice” where they award books which received scores higher than or equal to 60 from all 5 publishers. Write a function to list all the books that fit the criteria.
 
